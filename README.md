@@ -1,1 +1,1 @@
-# -Pjt-Gerenciador-de-Tarefas---CSharp
+# Projeto de um gerenciador de tarefas.
